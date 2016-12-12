@@ -1,0 +1,36 @@
+#footer_row3
+{
+    margin-top:50px;
+}
+
+#TopNav
+{
+    margin-bottom:20px;
+    background-color:#221f18;
+
+}
+
+#TopNav a
+{
+    color: #FFF;
+}
+
+.active
+{
+    color: #000;
+}
+
+#InsideHeader
+{
+
+}
+
+#homebrand
+{
+    font-weight: 10px;
+}
+
+#slogan
+{
+    color: #929292;
+}
